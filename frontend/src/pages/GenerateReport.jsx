@@ -9,7 +9,7 @@ function GenerateReport() {
   const [resume, setResume] = useState(null);
   const [jobDescription, setJobDescription] = useState("");
   const [selfDescription, setSelfDescription] = useState("");
-  const [loading, setLoading] = useState(true);
+  const [loading, setLoading] = useState(false);
   const [aiError , setaiError] = useState(false);
 
   async function handleSubmit(e) {
@@ -45,7 +45,7 @@ function GenerateReport() {
                       <DotLottieReact src="loading.json" autoplay loop />
           </div>
 
-          <h2 className="mt-4 text-2xl sm:text-3xl font-bold text-white">
+          <h2 className="mt-4 text-2xl sm:text-3xl font-bold text-white">   
             Generating Your Report...
           </h2>
           <p className="mt-2 max-w-md text-center text-sm sm:text-base text-gray-300 px-4">
