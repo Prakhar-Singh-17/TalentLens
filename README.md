@@ -303,7 +303,7 @@ This project is licensed under the ISC License - see the [LICENSE](LICENSE.md) f
 
 ## 🔗 Important Links
 
-- **Live Demo:** [TalentLens Demo](https://talentlens-yyp0.onrender.com/login) (Note: This is an assumed URL, please replace if a live demo exists)
+- **Live Demo:** [TalentLens Demo](https://talentlens-yyp0.onrender.com/login)
 - **Repository:** [Prakhar-Singh-17/TalentLens](https://github.com/Prakhar-Singh-17/TalentLens)
 
 --- 
