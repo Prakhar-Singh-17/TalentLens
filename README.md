@@ -297,13 +297,13 @@ Please ensure your code adheres to the project's coding standards and includes r
 
 ## 📄 License
 
-This project is licensed under the ISC License - see the [LICENSE](LICENSE.md) file for details. (Note: No LICENSE file was found in the provided analysis, assuming ISC based on `backend/package.json`.)
+This project is licensed under the ISC License - see the [LICENSE](LICENSE.md) file for details.
 
 --- 
 
 ## 🔗 Important Links
 
-- **Live Demo:** [TalentLens Demo](https://talentlens.netlify.app/) (Note: This is an assumed URL, please replace if a live demo exists)
+- **Live Demo:** [TalentLens Demo](https://talentlens-yyp0.onrender.com/login) (Note: This is an assumed URL, please replace if a live demo exists)
 - **Repository:** [Prakhar-Singh-17/TalentLens](https://github.com/Prakhar-Singh-17/TalentLens)
 
 --- 
@@ -315,7 +315,7 @@ This project is licensed under the ISC License - see the [LICENSE](LICENSE.md) f
   <br />
   <a href="https://github.com/Prakhar-Singh-17/TalentLens">View Project on GitHub</a>
   | 
-  <a href="mailto:prakhar@example.com">Contact Author</a>
+  <a href="mailto:iamprakharsingh@gmail.com">Contact Author</a>
   <br />
   <br />
   Give this project a :star: if you found it useful!
